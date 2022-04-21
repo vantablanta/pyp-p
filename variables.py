@@ -13,3 +13,15 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+
+
+"""
+Booleans should start with a capital. True // False 
+"""
+
+# Type casting
+s = 5
+x = str(s)  #to string
+f = 2.5
+p = int(f)
+print(type(p), p)
